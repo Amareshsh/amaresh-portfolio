@@ -2,40 +2,53 @@
     "experinces": [
       {
         "visible": true,
-        "category": "🕹️ Custom Data structures and Algorithms",
-        "title": "Basic java programs",
-        "description": "Clone the project repo and open it in Intellij IDE for best experince. Here I have implemented custom code for Stack, Queue, Linked List and Binary Tree",
-        "tags": ["DSA", "Java", "Programming Basics"],
+        "category": "🧰 Tata Consultancy and Services",
+        "title": "System Engineer",
+        "description": "Here I worked for various clients as Full stack developer namely for Thomson Reuters, Cisco and Wabtec. Well verse with Java Spring, Node, React, Pl/sql, sql, nosql, Python and AWS cloud technologies like LAMBDA, EC2, EKS, EC2, Cloudwatch, DocumentDb,Postgres, IAM etc. ",
+        "tags": ["Java", "Spring-framework", "AWS-lambda","AWS-gateway", "Python", "PL/SQL", "Postgres", "React", "Node", "DocumentDb", "Jenkins", "Liquibase", "Docker", "kubernates", "Microservices", "SOLID principles"],
         "image": {
-          "src": "../../images/data_structure.png",
+          "src": "../../images/anchor_tcs.jpg",
           "alt": "Quick Setup",
-          "linkTo": "https://github.com/Amareshsh/Data-Structures-Algorithms"
+          "linkTo": "https://www.tcs.com/"
         },
-        "links": [
-          {
-            "type": "github",
-            "url": "https://github.com/Amareshsh/Data-Structures-Algorithms"
-          },
+        "links": [      
           {
             "type": "external",
-            "url": "https://www.javatpoint.com/data-structure-tutorial"
+            "url": "https://www.tcs.com/"
           }
         ]
       },
       {
         "visible": true,
-        "category": "🧰 Restful API services in Node",
-        "title": "Node is a popular framework used to build modern webapplications.",
-        "description": "This code demonstrates how to design backend services using MVC architecture in node.js for a single model. Using express, node & mongodb.",
-        "tags": ["Node", "Javascript","MVC architecutre", "Express"],
+        "category": "🧰 Deevia Software Pvt Ltd ",
+        "title": "Software Engineer - Trainee ( Intern and Fulltime)",
+        "description": "Worked as a .Net full stack develper, Created CRUD APIs for various backend operations and deployed custom trained Machine learning model to detect early stage Cancer in MRI scans using AWS microservices.",
+        "tags": [".Net","C#","C++","Visual Studio","Python", "Tensorflow","Django", "EC2", "AWS" , "Docker", "DocumentDb"],
         "image": {
-          "src": "../../images/node-project.jpg",
+          "src": "../../images/deevia_soft.png",
           "alt": "Extendable Layout"
         },
         "links": [
           {
-            "type": "github",
-            "url": "https://github.com/Amareshsh/node_mvc_project"
+            "type": "external",
+            "url": "https://www.deevia.pw/"
+          }
+        ]
+      },
+      {
+        "visible": true,
+        "category": "🧰 KLE CITE - College Startup Street ",
+        "title": " Intern",
+        "description": "Worked as a python full stack developer, created webapplication to summarize cctv footage based on AI algorithm. Deployed service in local HPC cluster of college campus.",
+        "tags": ["Python","Flask", "React.js", "OpenCV","Tensorflow","EC2", "AWS" , "Docker", "Kubernates" ],
+        "image": {
+          "src": "../../images/kle-citie.jpg",
+          "alt": "Extendable Layout"
+        },
+        "links": [
+          {
+            "type": "external",
+            "url": "https://www.kletech.ac.in/"
           }
         ]
       }

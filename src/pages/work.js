@@ -1,20 +1,19 @@
 import React from "react";
 import {
-  AboutSection,
-  ArticlesSection,
   ContactSection,
-  HeroSection,
-  InterestsSection,
   Page,
+  ExperincesSection,
+  ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
-export default function workPage() {
+export default function projectPage() {
   return (
     <>
       <Seo title="Amaresh" />
       <Page useSplashScreenAnimation>
-      <ContactSection sectionId="github" heading="Contact Details" />
+        <ExperincesSection sectionId="featuress" heading="Experince Details" />
+        <ContactSection sectionId="github" heading="Contact Details" />
       </Page>
     </>
   );
