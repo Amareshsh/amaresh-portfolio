@@ -1,0 +1,49 @@
+{
+    "experinces": [
+      {
+        "visible": true,
+        "category": "🕹️ Custom Data structures and Algorithms",
+        "title": "Basic java programs",
+        "description": "Clone the project repo and open it in Intellij IDE for best experince. Here I have implemented custom code for Stack, Queue, Linked List and Binary Tree",
+        "tags": ["DSA", "Java", "Programming Basics"],
+        "image": {
+          "src": "../../images/data_structure.png",
+          "alt": "Quick Setup",
+          "linkTo": "https://github.com/Amareshsh/Data-Structures-Algorithms"
+        },
+        "links": [
+          {
+            "type": "github",
+            "url": "https://github.com/Amareshsh/Data-Structures-Algorithms"
+          },
+          {
+            "type": "external",
+            "url": "https://www.javatpoint.com/data-structure-tutorial"
+          }
+        ]
+      },
+      {
+        "visible": true,
+        "category": "🧰 Restful API services in Node",
+        "title": "Node is a popular framework used to build modern webapplications.",
+        "description": "This code demonstrates how to design backend services using MVC architecture in node.js for a single model. Using express, node & mongodb.",
+        "tags": ["Node", "Javascript","MVC architecutre", "Express"],
+        "image": {
+          "src": "../../images/node-project.jpg",
+          "alt": "Extendable Layout"
+        },
+        "links": [
+          {
+            "type": "github",
+            "url": "https://github.com/Amareshsh/node_mvc_project"
+          }
+        ]
+      }
+    ],
+    "button": {
+      "visible": false,
+      "label": "Visit on Github",
+      "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    }
+  }
+  

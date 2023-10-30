@@ -1,58 +1,58 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Java",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/java.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Spring-framework",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/spring.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/node.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "React.js",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "AWS",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "SQL",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "No-SQL",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/mongo.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Python",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     }
@@ -60,6 +60,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 8
   }
 }
