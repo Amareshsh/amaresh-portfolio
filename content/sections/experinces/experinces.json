@@ -4,7 +4,7 @@
         "visible": true,
         "category": "🧰 Tata Consultancy and Services",
         "title": "System Engineer",
-        "description": "Here I worked for various clients as Full stack developer namely for Thomson Reuters, Cisco and Wabtec. Well verse with Java Spring, Node, React, Pl/sql, sql, nosql, Python and AWS cloud technologies like LAMBDA, EC2, EKS, EC2, Cloudwatch, DocumentDb,Postgres, IAM etc. ",
+        "description": "Here I worked as Full stack developer for various clients namely Thomson Reuters, Cisco and Wabtec. Well verse with Java Spring, Node, React, Pl/sql, sql, nosql, Python and AWS cloud technologies like LAMBDA, EC2, EKS, API gateway, Cloudwatch, DocumentDb,Postgres, IAM etc. ",
         "tags": ["Java", "Spring-framework", "AWS-lambda","AWS-gateway", "Python", "PL/SQL", "Postgres", "React", "Node", "DocumentDb", "Jenkins", "Liquibase", "Docker", "kubernates", "Microservices", "SOLID principles"],
         "image": {
           "src": "../../images/anchor_tcs.jpg",
@@ -22,7 +22,7 @@
         "visible": true,
         "category": "🧰 Deevia Software Pvt Ltd ",
         "title": "Software Engineer - Trainee ( Intern and Fulltime)",
-        "description": "Worked as a .Net full stack develper, Created CRUD APIs for various backend operations and deployed custom trained Machine learning model to detect early stage Cancer in MRI scans using AWS microservices.",
+        "description": "Worked as a .Net full stack developer, Created CRUD APIs for various backend operations and deployed custom trained Machine learning model to detect early stage Cancer in scaned Images ( MRI, CT) using AWS microservices.",
         "tags": [".Net","C#","C++","Visual Studio","Python", "Tensorflow","Django", "EC2", "AWS" , "Docker", "DocumentDb"],
         "image": {
           "src": "../../images/deevia_soft.png",
@@ -37,9 +37,9 @@
       },
       {
         "visible": true,
-        "category": "🧰 KLE CITE - College Startup Street ",
+        "category": "🧰 KLE CTIE - College Startup Street ",
         "title": " Intern",
-        "description": "Worked as a python full stack developer, created webapplication to summarize cctv footage based on AI algorithm. Deployed service in local HPC cluster of college campus.",
+        "description": "Worked as a Python full stack developer, created webapplication to summarize cctv footage based on AI algorithm. Deployed service in local HPC cluster of college campus.",
         "tags": ["Python","Flask", "React.js", "OpenCV","Tensorflow","EC2", "AWS" , "Docker", "Kubernates" ],
         "image": {
           "src": "../../images/kle-citie.jpg",

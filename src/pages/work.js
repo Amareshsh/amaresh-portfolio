@@ -3,7 +3,6 @@ import {
   ContactSection,
   Page,
   ExperincesSection,
-  ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
